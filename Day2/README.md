@@ -1,61 +1,41 @@
-# Basic Linux Commands
+## Basic linux commands
 
-## Listing Commands
+### Listing commands
+```ls option_flag arguments ```--> list the sub directories and files avaiable in the present directory
 
-### Syntax
+Examples:
 
-### Examples:
-- `ls -l`  
-  Lists the files and directories in long list format with extra information.
+- ``` ls -l ```--> list the files and directories in long list format with extra information
+- ```ls -a ```--> list all including hidden files and directory
+- ```ls *.sh``` --> list all the files having .sh extension.
 
-- `ls -a`  
-  Lists all files, including hidden files and directories.
+- ```ls -i ``` --> list the files and directories with index numbers inodes
+- ``` ls -d */``` --> list only directories.(we can also specify a pattern)
 
-- `ls *.sh`  
-  Lists all the files having `.sh` extension.
+### Directoy commands
+- ```pwd``` --> print work directory. Gives the present working directory.
 
-- `ls -i`  
-  Lists the files and directories with their index numbers (inodes).
+- ```cd path_to_directory``` --> change directory to the provided path
 
-- `ls -d */`  
-  Lists only directories (a pattern can be specified).
+- ```cd ~ ``` or just  ```cd ``` --> change directory to the home directory
 
-## Directory Commands
+- ``` cd - ``` --> Go to the last working directory.
 
-- `pwd`  
-  Prints the present working directory.
+- ``` cd ..``` --> change directory to one step back.
 
-- `cd path_to_directory`  
-  Changes directory to the provided path.
+- ``` cd ../..``` --> Change directory to 2 levels back.
 
-- `cd ~` or `cd`  
-  Changes directory to the home directory.
+- ``` mkdir  directoryName``` --> to make a directory in a specific location
 
-- `cd -`  
-  Goes to the last working directory.
+Examples:
+```
+mkdir newFolder              # make a new folder 'newFolder'
 
-- `cd ..`  
-  Changes directory to one level up.
+mkdir .NewFolder              # make a hidden directory (also . before a file to make it hidden)
 
-- `cd ../..`  
-  Changes directory two levels up.
+mkdir A B C D                  #make multiple directories at the same time
 
-- `mkdir directoryName`  
-  Creates a new directory at the specified location.
+mkdir /home/user/Mydirectory   # make a new folder in a specific location
 
-### Examples:
-- `mkdir newFolder`  
-  Creates a new folder named `newFolder`.
-
-- `mkdir .NewFolder`  
-  Creates a hidden directory (prefixing a name with `.` makes it hidden).
-
-- `mkdir A B C D`  
-  Creates multiple directories (`A`, `B`, `C`, `D`) at the same time.
-
-- `mkdir /home/user/Mydirectory`  
-  Creates a new folder in a specific location.
-
-- `mkdir -p A/B/C/D`  
-  Creates a nested directory structure.
-
+mkdir -p  A/B/C/D              # make a nested directory
+```
