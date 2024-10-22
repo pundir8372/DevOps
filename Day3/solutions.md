@@ -1,13 +1,13 @@
 # Basic Linux Commands - Day 3
 
 ## Task 1: View the content of a file and display line numbers.
-![Task 1 Screenshot](images/task_1.png)
+![Task 1 Screenshot](images/Screenshot 2024-10-22 121106.png)
 
 ## Task 2: Change the access permissions of files to make them readable, writable, and executable by the owner only.
-![Task 2 Screenshot](images/task_2.png)
+![Task 2 Screenshot](images/Screenshot 2024-10-22 121106.png)
 
 ## Task 3: Check the last 10 commands you have run.
-![Task 3 Screenshot](images/task_3.png)
+![Task 3 Screenshot](images/Screenshot 2024-10-22 121106.png)
 
 ## Task 4: Remove a directory and all its contents.
 ![Task 4 Screenshot](images/task_4.png)
