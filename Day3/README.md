@@ -17,5 +17,5 @@ Task: What are the Linux commands to
 
 Reference: [Linux Commands for DevOps Used Day-to-Day](https://www.linkedin.com/pulse/linux-commands-devops-used-day-to-day-activit-chetan-/)
 
-[← Previous Day](../day02/README.md) | [Next Day →](../day04/README.md)
+[← Previous Day](../day2/README.md) | [Next Day →](../day4/README.md)
 
