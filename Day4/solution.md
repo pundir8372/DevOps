@@ -42,7 +42,7 @@ Usage: Using #!/bin/sh is sometimes preferred for compatibility, especially if t
 
 Task 3: Write a Shell Script that prints `I will complete #90DaysOfDevOps challenge`.
 
-![image](Images/Task1.pnh)
+![image](Images/Task1.png)
 
 Task 4: Write a Shell Script that takes user input, input from arguments, and prints the variables.
 
@@ -51,5 +51,5 @@ Task 4: Write a Shell Script that takes user input, input from arguments, and pr
 
 Task 5: Provide an example of an If-Else statement in Shell Scripting by comparing two numbers.
 
-![image](Task3.png)
+![image](Images/Task3.png)
 
