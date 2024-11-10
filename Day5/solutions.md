@@ -10,35 +10,33 @@
 
    **Answer**
    
-   ![image](https://github.com/Faizan2727/90DaysOfDevOps/blob/master/2024/day05/image/task1.png)
-   ![image](https://github.com/Faizan2727/90DaysOfDevOps/blob/master/2024/day05/image/task1_2.png)
-   ![image](https://github.com/Faizan2727/90DaysOfDevOps/blob/master/2024/day05/image/task1_3.png)   
+    
 
 2. **Create a Script to Backup All Your Work:**
    - Backups are an important part of a DevOps Engineer's day-to-day activities. The video in the references will help you understand how a DevOps Engineer takes backups (it can feel a bit difficult but keep trying, nothing is impossible).
 
    **Answer**
+   ![Task 1 Screenshot](Images/Task2.png)
    
-   ![image](https://github.com/Faizan2727/90DaysOfDevOps/blob/master/2024/day05/image/task2.png)
-   ![image](https://github.com/Faizan2727/90DaysOfDevOps/blob/master/2024/day05/image/task2_1.png)
-   ![image](https://github.com/Faizan2727/90DaysOfDevOps/blob/master/2024/day05/image/task2_2.png)
+  
 
-3. **Read About Cron and Crontab to Automate the Backup Script:**
+4. **Read About Cron and Crontab to Automate the Backup Script:**
    - Cron is the system's main scheduler for running jobs or tasks unattended. A command called crontab allows the user to submit, edit, or delete entries to cron. A crontab file is a user file that holds the scheduling information.
 
    **Answer**
+    ![Task 1 Screenshot](Images/Task3.png)
    
-   ![image](https://github.com/Faizan2727/90DaysOfDevOps/blob/master/2024/day05/image/task3.png)   
-   ![image](https://github.com/Faizan2727/90DaysOfDevOps/blob/master/2024/day05/image/task3_2.png) 
+ 
 
-4. **Read About User Management:**
+5. **Read About User Management:**
    - A user is an entity in a Linux operating system that can manipulate files and perform several other operations. Each user is assigned an ID that is unique within the system. IDs 0 to 999 are assigned to system users, and local user IDs start from 1000 onwards.
    - Create 2 users and display their usernames.
 
    **Answer**
    
-    ![image](https://github.com/Faizan2727/90DaysOfDevOps/blob/master/2024/day05/image/task4.png)
-    ![image](https://github.com/Faizan2727/90DaysOfDevOps/blob/master/2024/day05/image/task4_1.png)
+   ![Task 1 Screenshot](Images/Task4.png)
+   ![Task 1 Screenshot](Images/Task4.1.png)
+   
 
 [LinkedIn](https://www.linkedin.com/in/sahilpundir/).
 
